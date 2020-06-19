@@ -49,8 +49,8 @@ After installing node, this project will need yarn too, so just run the followin
 
 ## Install
 
-    $ git clone https://github.com/paulonteri/hospital-app-backend
-    $ cd hospital-app-backend
+    $ git clone https://github.com/paulonteri/node-express-backend
+    $ cd node-express-backend
     $ yarn install
 
 ## Running the project
